@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+header{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://topauto.vn/images/home_slider_bcg.jpg);
+    height: 90vh;
+}
+.container{
+    width: 80%;
+    margin: 5% 15%;
+    height: 50px;
+    margin-left: 70px;
+    
+    
+}
+nav ul.menu li{
+    display: inline-block;
+    margin: 0 15px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav{
+    padding: 15px;
+}
+nav ul.menu a{
+    color: white;
+}
+.text-center{
+    text-align: center;
+}
+.slogan b{
+    font-size: 50px;
+    color: white;
+
+}
+
+.tel{
+    border: 10px solid rgb(255, 94, 0);
+    background-color: rgb(255, 94, 0);
+    color: white;
+    text-decoration: none;
+}
+.section{
+    width: 100%;
+    
+}
+.txt{
+    color: blue;
+}
+.txt1{
+    color: dimgray;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+  
